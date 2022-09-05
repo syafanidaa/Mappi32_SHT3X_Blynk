@@ -1,0 +1,1 @@
+# Mappi32_SHT3X_Blynk
