@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3abRAV53"
-#define BLYNK_DEVICE_NAME "SHT3X"
-#define BLYNK_AUTH_TOKEN "-azk-D7XWGH_nnYXlwx0EzLqW1iWTsfw"
+#define BLYNK_TEMPLATE_ID "XXXXXXXXXXXXXXXXXXXXXXXX"
+#define BLYNK_DEVICE_NAME "XXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXXXXXXXXX"
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
@@ -13,8 +13,8 @@ String datasensor;
 #define pinLED  5
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "KMTek";   // Nama Hotspot / WiFi
-char pass[] = "KMTek123"; // Password WiFi
+char ssid[] = "XXXXXXXXXXXX";   // Nama Hotspot / WiFi
+char pass[] = "XXXXXXXXXXXX"; // Password WiFi
 
 
 BlynkTimer timer;
